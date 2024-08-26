@@ -1,0 +1,16 @@
+{
+    "name": "myproject/composer-bootstrap",
+    "description": "ini adalah composer dengan package bootstrap",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MFaridgunawan"
+        }
+    ],
+    "scripts": {
+    "server": "php -S localhost:8080"
+    },
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
